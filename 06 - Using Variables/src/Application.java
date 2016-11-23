@@ -25,3 +25,14 @@ public class Application {
     }
  
 }
+
+// Output:
+
+// 88
+// 847
+// 9797
+// 7.3243
+// 324.3
+// y
+// false
+// 127
