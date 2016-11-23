@@ -6,3 +6,11 @@ public class Application {
         }
     }
 }
+
+//output
+
+// The value of i is 0
+// The value of i is 1
+// The value of i is 2
+// The value of i is 3
+// The value of i is 4
