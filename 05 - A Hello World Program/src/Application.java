@@ -5,3 +5,5 @@ public class Application {
     }
  
 }
+
+//Output: Hello World!
